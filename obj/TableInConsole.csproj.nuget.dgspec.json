@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\repos\\TableInConsole\\TableInConsole.csproj": {}
+    "D:\\repos\\TableInConsole\\TableInConsole.csproj": {}
   },
   "projects": {
-    "d:\\repos\\TableInConsole\\TableInConsole.csproj": {
+    "D:\\repos\\TableInConsole\\TableInConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\repos\\TableInConsole\\TableInConsole.csproj",
+        "projectUniqueName": "D:\\repos\\TableInConsole\\TableInConsole.csproj",
         "projectName": "TableInConsole",
-        "projectPath": "d:\\repos\\TableInConsole\\TableInConsole.csproj",
+        "projectPath": "D:\\repos\\TableInConsole\\TableInConsole.csproj",
         "packagesPath": "C:\\Users\\Роман\\.nuget\\packages\\",
-        "outputPath": "d:\\repos\\TableInConsole\\obj\\",
+        "outputPath": "D:\\repos\\TableInConsole\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
